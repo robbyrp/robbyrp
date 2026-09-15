@@ -2,10 +2,8 @@
 
 #### I like building and designing software systems.
 
-#### Member of Brickteam-RO 
-[link](https://github.com/Brickteam-RO)
+#### Member of <a href="https://github.com/Brickteam-RO">Brickteam-RO</a>
 
-<a href="https://github.com/Brickteam-RO">Mmmber of Brickteam-RO</a>
 <!--
 **robbyrp/robbyrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
